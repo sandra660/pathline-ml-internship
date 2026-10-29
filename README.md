@@ -1,6 +1,6 @@
 # Machine Learning Internship Projects: Pathline Training Academy
 
-Three machine learning tasks I completed during my **Machine Learning Traineeship at Pathline Training Academy (February 2025)**.
+Three machine learning tasks I completed during my **Machine Learning Traineeship at Pathline Training Academy**.
 They cover deep learning, interpretable ensemble models, and production-style ML pipelines.
 
 | # | Project | Techniques | Key result |
