@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn>=1.4
+tensorflow>=2.15
+pillow
+joblib
+jupyter
